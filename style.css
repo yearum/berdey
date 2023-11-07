@@ -1,0 +1,58 @@
+/* Gaya dari kode CSS Anda sebelumnya */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+main {
+    text-align: center;
+}
+
+.lampu {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.lampu-nyala {
+    background-color: yellow;
+    box-shadow: 0 0 20px 20px yellow;
+}
+
+.pesan-container {
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 10px;
+    display: none;
+}
+
+#video-player {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Gaya dari kode CSS sebelumnya yang Anda sebutkan */
+/* ... Anda dapat menambahkan gaya CSS lainnya di sini ... */
